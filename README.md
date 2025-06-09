@@ -31,7 +31,7 @@ Uma API simples para gerenciamento de cadastros de usuários, desenvolvida com N
 git clone https://github.com/pedrojano/api_de_cadastro.git
 cd api_de_cadastro
 ```
-2. 
+2. Inicie o servidor:
 ```bash
 npm start
 ```
